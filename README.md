@@ -12,20 +12,19 @@ This is a simple web application that includes:
 ## 📌 Features
 
 ✔️ **Color-Changing Button**  
-→ Cycles through a list of colors (`blue`, `green`, `red`, `yellow`, `purple`, `orange`) every time you click the button.
+Cycles through a list of colors (`blue`, `green`, `red`, `yellow`, `purple`, `orange`) every time you click the button.
 
 ✔️ **Time-Based Greeting**  
-→ Displays a greeting based on the time of day when the page is loaded:
-- "Good Morning" before 12 PM  
-- "Good Afternoon" from 12 PM to 6 PM  
-- "Good Evening" after 6 PM
+Displays a greeting based on the time of day when the page is loaded:
+- **Good Morning** before 12 PM  
+- **Good Afternoon** from 12 PM to 6 PM  
+- **Good Evening** after 6 PM
 
 ✔️ **Basic Calculator**  
-→ Allows the user to input two numbers, adds them together, and displays the result on the screen.
+Allows the user to input two numbers, adds them together, and displays the result on the screen.
 
 ✔️ **Thank You Message**  
-→ The page ends with a large, styled “Thank You !!” message for a pleasant closing.
-
+The page ends with a large, styled "**Thank You !!**" message for a pleasant closing.
 
 
 ## 🛠️ Technologies Used
